@@ -1,3 +1,7 @@
+---
+layout: default
+title: Content Performance Prioritization Using Machine Learning
+---
 # Content Performance Prioritization Using Machine Learning
 
 ## 1. Title and Abstract
